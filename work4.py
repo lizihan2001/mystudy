@@ -16,7 +16,7 @@ import random
     注：
         文本内容仅供参考，仅用于交流学习，
         我的GitHub网址："https://github.com/lizihan2001/mystudy"
-        我的gitee网址："https://gitee.com/"
+        我的gitee网址："https://gitee.com/li-zihan-2001"
         
     '''
 def getPageInfo(s):
